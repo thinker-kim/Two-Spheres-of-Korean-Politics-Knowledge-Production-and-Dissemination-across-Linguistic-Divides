@@ -16,7 +16,7 @@ In short, local scholarship supplies essential contextual depth, yet the English
 ---
 
 ## Supplementary Materials
-The supplementary file `material.pdf` contains:
+The supplementary file `Two Spheres of Korean Politics_Supplementary Materials.pdf` contains:
 
 - Journal lists  
 - Topic distribution  

@@ -41,7 +41,7 @@ The data-and-code package separates descriptive statistics, RQ1, H2, and H3 into
 
 ## Interactive topic map
 
-The original notebook generates an interactive BERTopic map using `topic_model_35.visualize_topics()` and exports it as `topic_map_35topics.html`. The map presents the relative positions and sizes of topics. A browser-viewable link will be added after the archived map HTML is uploaded and hosting is enabled.
+The original notebook generates an interactive BERTopic map using `topic_model_35.visualize_topics()` and exports it as `topic_map_35topics.html`. The map presents the relative positions and sizes of topics. [Explore the interactive 35-topic map](https://thinker-kim.github.io/Two-Spheres-of-Korean-Politics-Knowledge-Production-and-Dissemination-across-Linguistic-Divides/topic_map_35topics.html). You can also [download the archived HTML](topic_map_35topics.html) and open it locally in a browser.
 
 The map uses internal model topic identifiers, which may differ from remapped identifiers in exported topic tables. It is separate from the topic-level NDS analysis.
 

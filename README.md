@@ -7,8 +7,8 @@ Manuscript under review at *Humanities & Social Sciences Communications*.
 ## Research materials
 
 - **[Supplementary material (PDF)](supplementary_material.pdf)** — Journal lists, author-level descriptives, topic distributions, and full hypothesis-testing results.
-- **[Interactive topic map](https://thinker-kim.github.io/Two-Spheres-of-Korean-Politics-Knowledge-Production-and-Dissemination-across-Linguistic-Divides/topic_map_35topics.html)** — Explore the archived 35-topic model in your browser.
-- **[Topic map file](topic_map_35topics.html)** — Download the HTML and open it locally.
+- **[Original topic map](https://thinker-kim.github.io/Two-Spheres-of-Korean-Politics-Knowledge-Production-and-Dissemination-across-Linguistic-Divides/topic_map_original.html)** — Explore the topic structure before reduction.
+- **[Topic map file](topic_map_original.html)** — Download the original map and open it locally.
 
 ## About the study
 
